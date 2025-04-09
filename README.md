@@ -22,7 +22,7 @@ The objective is to understand what problems to solve, learn the key concepts, t
 - [x] 3D Interactive Solar System [link](https://github.com/jjteoh-thewebdev/r3f-solar-system)
 - [x] Personal Website [link](https://www.jjteoh.dev/)
 - [x] Snake Game [link](https://github.com/jjteoh-thewebdev/html-canvas-snake)
-- [ ] Kanban Board (Trello, Notion board, Github Project)
+- [x] Kanban Board (Trello, Notion board, Github Project)
 - [ ] Concert Ticket Queing System
 - [ ] Bingo
 - [ ] JSON Editor + Beautifier
@@ -34,12 +34,16 @@ The objective is to understand what problems to solve, learn the key concepts, t
 - [ ] Text compare tool
 - [ ] Code sandbox/playground
 - [ ] JSX parser
+- [ ] Markup editor (README, Notion)
 - [ ] Key-Value Storage (Redis)
 - [ ] Real-time Search AutoComplete
 - [ ] Space Renting (AirBnB)
 - [ ] Restaurant POS
+- [ ] Job Board (Jobstreet, Indeed)
 - [ ] Online voting with blockchain
 - [ ] Digital wallet
 - [ ] Personal cryptocurrency
-- [ ] WEb Crawler
+- [ ] Web Crawler
 - [ ] E-Commerce
+- [ ] Auth service, SSO (Clerk)
+- [ ] Calendar
