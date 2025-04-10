@@ -47,3 +47,4 @@ The objective is to understand what problems to solve, learn the key concepts, t
 - [ ] E-Commerce
 - [ ] Auth service, SSO (Clerk)
 - [ ] Calendar
+- [ ] Typing speed checker
