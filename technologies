@@ -1,0 +1,57 @@
+# List of technologies to explore
+
+## Frontend
+- Daisy UI
+- Vue
+- Svelte
+- Nuxt
+- Chakra UI
+- Framer Motion 
+- React Fiber D3
+- Rechart
+- dnd-kit
+
+## Backend
+- Golang
+- RUST
+- Ruby on Rails
+- Deno
+- Elixir
+
+## Infra(db, cache, message queues, etc.)
+- Supabase
+- Kafka
+- Cassandra
+- OpenSearch
+- Upstash
+- Neon(Serverless Postgres)
+
+## AI 
+- RAG
+- MCP
+
+## WEB 3
+- Block chain
+- Ethereum
+- BTC
+- Polkadot
+- Hyperledger(Besu, Fabric, Indy)
+- Oracle
+- Chainlink
+- Cosmos
+- R3 Corda
+- ZK-Roll ups-Optimism(Polygon)
+- Cardano
+- Hyperetherium
+
+## Algo
+- minimax
+- A*
+- Boom filter
+- Kalman filter
+- Viterbi
+- Partitioning graph
+
+
+
+
