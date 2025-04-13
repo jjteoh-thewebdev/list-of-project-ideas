@@ -31,6 +31,7 @@
 - RAG
 - MCP
 - LangChain
+- LlamaIndex
 - Flux
 - pydantic
 - ComfyUI
