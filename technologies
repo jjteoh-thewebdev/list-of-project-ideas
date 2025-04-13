@@ -25,12 +25,15 @@
 - OpenSearch
 - Upstash
 - Neon(Serverless Postgres)
+- CouchDB
 
 ## AI 
 - RAG
 - MCP
 - LangChain
 - Flux
+- pydantic
+- ComfyUI
 
 ## WEB 3
 - Block chain
